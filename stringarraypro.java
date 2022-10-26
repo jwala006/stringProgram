@@ -1,5 +1,5 @@
 package stringArrayProg;
-
+//This is a string array program
 public class stringarraypro {
 
 	public static void main(String[] args) {
